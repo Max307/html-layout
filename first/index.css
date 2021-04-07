@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  background-color: beige;
+  width: 100%;
+  height: 100vh;
+}
+
+.header {
+  width: 100%;
+  height: 20vh;
+  background-color: black;
+}
+
+.main-content {
+ background-color: crimson;
+ margin: 0 auto;
+ width: 75%;
+ height: 70vh;
+
+}
+
+.footer {
+    background-color: darkgreen;
+    margin: 0 auto;
+    width: 75%;
+    height: 10vh;
+
+}
